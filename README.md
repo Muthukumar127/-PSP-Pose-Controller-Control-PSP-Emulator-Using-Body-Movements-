@@ -1,7 +1,7 @@
 🎮 PSP Pose Controller – Control PSP Emulator Using Body Movements!
 🚀 PSP Pose Controller is an innovative Python-based project that enables users to control a PSP emulator using body movements detected via a webcam! It leverages MediaPipe Pose, OpenCV, and PyAutoGUI to map different postures to PSP button presses.
 
-🔥 Features
+🔥 Features 
 ✅ Hand-Free PSP Control – Move your body to simulate D-Pad, buttons, and analog stick inputs.
 ✅ MediaPipe Pose Detection – Uses AI-powered pose estimation to track shoulders, wrists, and body posture.
 ✅ Custom Key Mapping – Simulates PSP controls (D-Pad, Cross, Circle, Square, Triangle, etc.).
