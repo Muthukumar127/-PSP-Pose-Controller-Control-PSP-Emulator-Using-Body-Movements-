@@ -43,3 +43,12 @@ PPSSPP Emulator (for PSP gaming)
 🏆 Gesture Customization – Add user-configurable mappings.
 🎥 Improved Pose Detection – Enhance accuracy with AI tuning.
 📱 Mobile Support – Extend to Android/iOS apps.
+
+
+## License
+
+This project is for **educational and research reference only**.
+
+🛑 **Unauthorized use, reproduction, or distribution of this code is strictly prohibited.**
+Please contact the author for permission.
+
